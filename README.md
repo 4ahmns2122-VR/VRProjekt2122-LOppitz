@@ -1,8 +1,7 @@
 # XRInteractionToolkitTemplate
 
 ### Project description: 
-This project serves as sample project for spatial audio. 
-Explore sound in its basics in virtual reality (VR).
+The game is set in a futuristic post-apocalyptic suburban area, the player gets trapped in a maze to scientifically study their behavior.
 
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
