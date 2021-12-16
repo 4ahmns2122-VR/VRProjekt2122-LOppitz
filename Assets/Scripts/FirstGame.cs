@@ -13,24 +13,11 @@ public class FirstGame : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter(Collider other)
-    {
-        Debug.Log("im trigger");
-        if (other.tag== "ObjectGreen")
-        {
-            Debug.Log("Green");
-        }
-
-        if (other.tag == "ObjectRed")
-        {
-            Debug.Log("Red");
-        }
-
-        if (other.tag == "ObjectBlue")
-        {
-            Debug.Log("Blue");
-        }
-    }
+     //private void OnTriggerEnter(Collider other)
+    //{
+       // Debug.Log("im trigger");
+        
+    //}
 
     
     void Update()
