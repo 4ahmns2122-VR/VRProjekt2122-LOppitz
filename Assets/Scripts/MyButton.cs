@@ -4,9 +4,7 @@ using UnityEngine;
 
 public class MyButton : MonoBehaviour
 {
-    public GameObject ObjectGreen;
-    public GameObject ObjectRed;
-    public GameObject ObjectBlue;
+  
 
     // Start is called before the first frame update
     void Start()
@@ -14,20 +12,23 @@ public class MyButton : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter(Collider other)
+    public void OnTriggerEnter(Collider other)
     {
-        if (gameObject.name == "ObjectGreen")
+        if (other.name == "ObjectBlue")
         {
-            Debug.Log("Green");
+            Debug.Log("blue");
         }
-        if (gameObject.name == "ObjectRed")
+
+        if (other.name == "ObjectGreen")
         {
-            Debug.Log("Red");
+            Debug.Log("green");
         }
-        if (gameObject.name == "ObjectBlue")
+
+        if (other.name == "ObjectRed")
         {
-            Debug.Log("Blue");
+            Debug.Log("red");
         }
+
     }
 
     // Update is called once per frame
