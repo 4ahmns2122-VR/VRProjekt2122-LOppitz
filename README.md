@@ -26,7 +26,7 @@ OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interacti
 
 ## Software/Hardware Requirements: 
 Oculus hardware requirements https://support.oculus.com/248749509016567/
-You need a VR headset in this case an Oculus Rift/Quest/Quest2
+You need a VR headset in this case an Oculus Rift
 
 When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
 
@@ -40,6 +40,6 @@ Screenshots (concept and experience), Video
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
 
 ### Limitations/Problems: 
-had a hard time finishing the first game
+had a hard time finishing the first game; never tested on vr headset
 
 Copyright by smeerws :)
