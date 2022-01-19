@@ -10,6 +10,17 @@ GAME TWO: find and collect items scattered across the map
 
 AUDIO: city atmosphere, whirring sound to help finding game one, door opening sound after completing the second game
 
+###Assets
+https://assetstore.unity.com/packages/2d/textures-materials/cyberpunk-material-pack-six-high-quality-materials-188067
+
+https://assetstore.unity.com/packages/3d/props/interior/futuristic-security-door-182385
+
+https://assetstore.unity.com/packages/3d/props/electronics/modern-vending-machine-pbr-127874
+
+https://assetstore.unity.com/packages/3d/props/food/free-must-dash-sci-fi-drinks-pack-53584
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/city-street-skyboxes-vol-1-157401
+
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
 
