@@ -1,4 +1,4 @@
-# XRInteractionToolkitTemplate
+# '77 - THE MAZE TEST
 
 ### Project description: 
 The game is set in a futuristic post-apocalyptic suburban area, the player gets trapped in a maze to scientifically study their behavior.
@@ -42,4 +42,3 @@ For testing without a headset, use the XR Device Simulator (included in the xr i
 ### Limitations/Problems: 
 had a hard time finishing the first game; never tested on vr headset
 
-Copyright by smeerws :)
