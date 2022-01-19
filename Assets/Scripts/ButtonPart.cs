@@ -9,10 +9,12 @@ public class ButtonPart : MonoBehaviour
 
     public ButtonManager bManager;
 
-    void Start()
-    {
-        
-    }
+    public AudioSource pickUp1;
+    public AudioSource pickUp2;
+    public AudioSource pickUp3;
+    public AudioSource pickUp4;
+    public AudioSource pickUp5;
+
 
     public void OnTriggerEnter(Collider other)
     {
@@ -35,15 +37,17 @@ public class ButtonPart : MonoBehaviour
                 if (bManager.stopAudio == true)
                 {
                     bManager.gameOne.Stop();
+                    pickUp1.Play();
+                    pickUp2.Play();
+                    pickUp3.Play();
+                    pickUp4.Play();
+                    pickUp5.Play();
                 }
             }
         }
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
+    
 }

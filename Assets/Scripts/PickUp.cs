@@ -11,14 +11,7 @@ public class PickUp : MonoBehaviour
     public GameObject doorRight;
     public AudioSource doorOpen;
     
-    void Start()
-    {
-
-        
-
-        
-
-    }
+ 
 
     public void OnTriggerEnter(Collider other)
     {
@@ -29,7 +22,7 @@ public class PickUp : MonoBehaviour
             count = count + 1;
         }
 
-        if (count == 2)
+        if (count == 6)
         {
 
             doorOpen.Play();
@@ -40,8 +33,6 @@ public class PickUp : MonoBehaviour
 
     }
 
-    void Update()
-    {
-        
-    }
+   
+    
 }
