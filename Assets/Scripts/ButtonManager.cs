@@ -6,7 +6,9 @@ public class ButtonManager : MonoBehaviour
 
     public int currentID;
 
-    public bool startAudio;
+    public bool stopAudio;
+
+    public AudioSource gameOne;
 
    
 }

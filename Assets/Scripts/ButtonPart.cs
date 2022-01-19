@@ -24,12 +24,17 @@ public class ButtonPart : MonoBehaviour
 
             if (id == bManager.currentID)
            {
-                Debug.Log(id + " " + bManager.currentID); 
+                // Debug.Log(id + " " + bManager.currentID); 
                 bManager.currentID += 1;
                 
-                if (bManager.currentID == 2)
+                if (bManager.currentID == 3)
                 {
-                    bManager.startAudio = true;
+                    bManager.stopAudio = true;
+                }
+
+                if (bManager.stopAudio == true)
+                {
+                    bManager.gameOne.Stop();
                 }
             }
         }

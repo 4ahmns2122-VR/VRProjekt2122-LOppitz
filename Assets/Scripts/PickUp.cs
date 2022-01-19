@@ -9,6 +9,7 @@ public class PickUp : MonoBehaviour
     public GameObject doorLeft;
     public GameObject keyPad;
     public GameObject doorRight;
+    public AudioSource doorOpen;
     
     void Start()
     {
@@ -28,9 +29,10 @@ public class PickUp : MonoBehaviour
             count = count + 1;
         }
 
-        if (count == 6)
+        if (count == 2)
         {
-            Debug.Log("yay");
+
+            doorOpen.Play();
             Destroy(doorLeft);
             Destroy(doorRight);
             Destroy(keyPad);
