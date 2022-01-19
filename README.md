@@ -5,7 +5,9 @@ The game is set in a futuristic post-apocalyptic suburban area, the player gets 
 
 ### MVP
 GAME ONE: find clues and press the buttons in the right order
+
 GAME TWO: find and collect items scattered across the map
+
 AUDIO: city atmosphere, whirring sound to help finding game one, door opening sound after completing the second game
 
 ### Development platform: 
