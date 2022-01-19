@@ -34,7 +34,10 @@ When downlaoded, you have compile time errors in the project. To solve them inst
 Oculus Rift
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+![Ejn0RKBVgAA2RJ6](https://user-images.githubusercontent.com/73108662/150232454-fb5cd909-c258-4760-909d-1f0db602f6ce.jpg)
+![HD-wallpaper-sci-fi-futuristic-city-vehicle](https://user-images.githubusercontent.com/73108662/150232512-52177d99-2e26-4b3b-a367-ac9113fa7e7c.jpg)
+![snowpiercer-plows-through-the-snow-covered-landscapes](https://user-images.githubusercontent.com/73108662/150232551-ae87d06e-ce78-42dd-8cdc-29cf1fb8cffa.jpg)
+
 
 ### Third party material: 
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
