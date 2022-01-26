@@ -18,6 +18,24 @@ AUDIO: city atmosphere, whirring sound to help finding game one, door opening so
 ![snowpiercer-plows-through-the-snow-covered-landscapes](https://user-images.githubusercontent.com/73108662/150232551-ae87d06e-ce78-42dd-8cdc-29cf1fb8cffa.jpg)
 ![Screenshot (351)](https://user-images.githubusercontent.com/73108662/151247151-ed98f68f-bfab-44a7-a34e-f87d4c9122ca.png)
 
+## Milestones
+-	Research
+-	Whiteboxing
+-	Einbindung des Atmo Sounds
+-	Programmierung des ersten Puzzles
+-	Sounddesign für das erste Puzzle
+-	Test 
+-	18. NOVEMBER
+-	Programmierung des zweiten Puzzles
+-	Sounddesign für das zweite Puzzle
+-	Test
+-	02. DEZEMBER
+-	Programmierung des letzten Puzzles
+-	Sounddesign für das letzte Puzzle
+-	Environment aufbereiten
+-	Test 
+-	23. DEZEMBER
+
 ## Development platform 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit, Adobe Audition 2022, Adobe Photoshop 2021
 
