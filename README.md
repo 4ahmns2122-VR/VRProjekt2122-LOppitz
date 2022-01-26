@@ -4,7 +4,7 @@
 The game is set in a futuristic post-apocalyptic suburban area, the player gets trapped in a maze to scientifically study their behavior.
 
 ## MVP
-GAME ONE: find clues and press the buttons in the right order - clues -> three objects in front of puzzle (blue - green - red)
+GAME ONE: find clues and press the buttons in the right order _clues -> three objects in front of puzzle (blue - green - red)_
 
 GAME TWO: find and collect balls scattered across the map
 
@@ -16,7 +16,6 @@ AUDIO: city atmosphere, whirring sound to help finding game one, door opening so
 ![Ejn0RKBVgAA2RJ6](https://user-images.githubusercontent.com/73108662/150232454-fb5cd909-c258-4760-909d-1f0db602f6ce.jpg)
 ![HD-wallpaper-sci-fi-futuristic-city-vehicle](https://user-images.githubusercontent.com/73108662/150232512-52177d99-2e26-4b3b-a367-ac9113fa7e7c.jpg)
 ![snowpiercer-plows-through-the-snow-covered-landscapes](https://user-images.githubusercontent.com/73108662/150232551-ae87d06e-ce78-42dd-8cdc-29cf1fb8cffa.jpg)
-
 ![Screenshot (351)](https://user-images.githubusercontent.com/73108662/151247151-ed98f68f-bfab-44a7-a34e-f87d4c9122ca.png)
 
 ## Development platform 
