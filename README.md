@@ -3,6 +3,8 @@
 ## Project description 
 The game is set in a futuristic post-apocalyptic suburban area, the player gets trapped in a maze to scientifically study their behavior.
 
+Follow the whirring sound to find the first game, after touching the buttons in the right order you'll be able to find five pickups. After collecting all of them the last door opens and you win.
+
 ## MVP
 GAME ONE: find clues and press the buttons in the right order _clues -> three objects in front of puzzle (blue - green - red)_
 
