@@ -6,15 +6,17 @@ public class ButtonPart1 : MonoBehaviour
 {
 
     public int id = 1;
+    public AudioSource press;
+    public AudioSource wrong;
 
     public ButtonManager1 bManager;
 
-    public AudioSource pickUp1;
-    public AudioSource pickUp2;
-    public AudioSource pickUp3;
-    public AudioSource pickUp4;
-    public AudioSource pickUp5;
+    public AudioSource pickUp1, pickUp2, pickUp3, pickUp4, pickUp5;
 
+    public GameObject doorLeft1;
+    public GameObject keyPad1;
+    public GameObject doorRight1;
+    public AudioSource doorOpen1;
 
     public void OnTriggerEnter(Collider other)
     {
@@ -25,14 +27,26 @@ public class ButtonPart1 : MonoBehaviour
             {
                // Debug.Log(id + " " + bManager.currentID); 
                 bManager.currentID += 1;
+                press.Play();
 
                 if (bManager.currentID == 4)
                 {
                     bManager.stopAudio = true;
                 }
 
+                if (bManager.currentID > 4)
+                {
+                    wrong.Play();
+                    id = 1;
+                }
+
                 if (bManager.stopAudio == true)
                 {
+                    doorOpen1.Play();
+                    Destroy(doorLeft1);
+                    Destroy(doorRight1);
+                    Destroy(keyPad1);
+
                     bManager.gameOne.Stop();
                     pickUp1.Play();
                     pickUp2.Play();

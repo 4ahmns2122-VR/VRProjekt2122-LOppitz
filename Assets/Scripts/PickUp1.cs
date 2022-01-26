@@ -5,6 +5,8 @@ using UnityEngine;
 public class PickUp1 : MonoBehaviour
 {
     public int count = 0;
+    public AudioSource collect;
+    
 
     public GameObject doorLeft;
     public GameObject keyPad;
@@ -20,6 +22,8 @@ public class PickUp1 : MonoBehaviour
         {
             Destroy(other.gameObject);
             count = count + 1;
+            collect.Play();
+           
         }
 
         if (count == 6)
