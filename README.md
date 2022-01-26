@@ -21,6 +21,8 @@ https://assetstore.unity.com/packages/3d/props/food/free-must-dash-sci-fi-drinks
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/city-street-skyboxes-vol-1-157401
 
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sfuture-modules-pro-space-and-ground-104018
+
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
 
@@ -37,6 +39,8 @@ Oculus Rift
 ![Ejn0RKBVgAA2RJ6](https://user-images.githubusercontent.com/73108662/150232454-fb5cd909-c258-4760-909d-1f0db602f6ce.jpg)
 ![HD-wallpaper-sci-fi-futuristic-city-vehicle](https://user-images.githubusercontent.com/73108662/150232512-52177d99-2e26-4b3b-a367-ac9113fa7e7c.jpg)
 ![snowpiercer-plows-through-the-snow-covered-landscapes](https://user-images.githubusercontent.com/73108662/150232551-ae87d06e-ce78-42dd-8cdc-29cf1fb8cffa.jpg)
+
+![Screenshot (351)](https://user-images.githubusercontent.com/73108662/151247151-ed98f68f-bfab-44a7-a34e-f87d4c9122ca.png)
 
 
 ### Third party material: 
