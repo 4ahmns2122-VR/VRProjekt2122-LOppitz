@@ -25,16 +25,16 @@ AUDIO: city atmosphere, whirring sound to help finding game one, door opening so
 -	Programmierung des ersten Puzzles
 -	Sounddesign für das erste Puzzle
 -	Test 
--	18. NOVEMBER
+-	***18 NOVEMBER
 -	Programmierung des zweiten Puzzles
 -	Sounddesign für das zweite Puzzle
 -	Test
--	02. DEZEMBER
+-	***02 DEZEMBER
 -	Programmierung des letzten Puzzles
 -	Sounddesign für das letzte Puzzle
 -	Environment aufbereiten
 -	Test 
--	23. DEZEMBER
+-	***23 DEZEMBER
 
 ## Development platform 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit, Adobe Audition 2022, Adobe Photoshop 2021
