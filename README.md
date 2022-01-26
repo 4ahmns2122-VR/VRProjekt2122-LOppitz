@@ -4,9 +4,11 @@
 The game is set in a futuristic post-apocalyptic suburban area, the player gets trapped in a maze to scientifically study their behavior.
 
 ### MVP
-GAME ONE: find clues and press the buttons in the right order
+GAME ONE: find clues and press the buttons in the right order - clues -> three objects in front of puzzle (blue - green - red)
 
-GAME TWO: find and collect items scattered across the map
+GAME TWO: find and collect balls scattered across the map
+
+***REMOVED GAME: connect wires - removed from MVP due to changes in assignment*** 
 
 AUDIO: city atmosphere, whirring sound to help finding game one, door opening sound after completing the second game
 
