@@ -1,6 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.XR.Interaction.Toolkit;
+using UnityEngine.InputSystem;
+using UnityEngine.Serialization;
+
 
 
 public class ButtonPart1 : MonoBehaviour
@@ -9,7 +14,7 @@ public class ButtonPart1 : MonoBehaviour
     public int id = 1;
     public AudioSource press;
     public AudioSource wrong;
-   // public OVRInput.Controller controller;
+  
     public ButtonManager1 bManager;
 
     public AudioSource pickUp1, pickUp2, pickUp3, pickUp4, pickUp5;
@@ -28,8 +33,8 @@ public class ButtonPart1 : MonoBehaviour
             {
                 bManager.currentID += 1;
                 press.Play();
-               // OVRInput.SetControllerVibration(1, 1, OVRInput.Controller.RTouch);
 
+               
                 if (bManager.currentID == 4)
                 {
                     bManager.stopAudio = true;
