@@ -79,17 +79,17 @@ Oculus Rift
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
 
 ### Assets
-https://assetstore.unity.com/packages/2d/textures-materials/cyberpunk-material-pack-six-high-quality-materials-188067
+https://assetstore.unity.com/packages/2d/textures-materials/cyberpunk-material-pack-six-high-quality-materials-188067 Version 1.0 - February 01, 2021
 
-https://assetstore.unity.com/packages/3d/props/interior/futuristic-security-door-182385
+https://assetstore.unity.com/packages/3d/props/interior/futuristic-security-door-182385 Version 1.0 - November 09, 2020
 
-https://assetstore.unity.com/packages/3d/props/electronics/modern-vending-machine-pbr-127874
+https://assetstore.unity.com/packages/3d/props/electronics/modern-vending-machine-pbr-127874 Version 1.0 - September 24, 2018
 
-https://assetstore.unity.com/packages/3d/props/food/free-must-dash-sci-fi-drinks-pack-53584
+https://assetstore.unity.com/packages/3d/props/food/free-must-dash-sci-fi-drinks-pack-53584 Version 1.0 - September 07, 2018
 
-https://assetstore.unity.com/packages/2d/textures-materials/sky/city-street-skyboxes-vol-1-157401
+https://assetstore.unity.com/packages/2d/textures-materials/sky/city-street-skyboxes-vol-1-157401 Version 1.0 - November 18, 2019
 
-https://assetstore.unity.com/packages/3d/environments/sci-fi/sfuture-modules-pro-space-and-ground-104018
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sfuture-modules-pro-space-and-ground-104018 Version 1.1 - January 10, 2018
 
 ### Sounds
 https://orangefreesounds.com
