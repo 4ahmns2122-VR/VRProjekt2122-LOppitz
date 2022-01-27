@@ -27,21 +27,21 @@ AUDIO: city atmosphere, whirring sound to help finding game one, door opening so
 
 
 ## Milestones
--	Research
--	Whiteboxing
--	Einbindung des Atmo Sounds
--	Programmierung des ersten Puzzles
--	Sounddesign für das erste Puzzle
--	Test 
--	***18 NOVEMBER***
--	Programmierung des zweiten Puzzles
--	Sounddesign für das zweite Puzzle
--	Test
+-	Research [was done]
+-	Whiteboxing [was done]
+-	Einbindung des Atmo Sounds [was not done]
+-	Programmierung des ersten Puzzles [was not done]
+-	Sounddesign für das erste Puzzle [was not done]
+-	Test [was not done]
+-	***18 NOVEMBER*** 
+-	Programmierung des zweiten Puzzles [was not done]
+-	Sounddesign für das zweite Puzzle [was not done]
+-	Test [was not done]
 -	***02 DEZEMBER***
--	Programmierung des letzten Puzzles
--	Sounddesign für das letzte Puzzle
--	Environment aufbereiten
--	Test 
+-	_Programmierung des letzten Puzzles_
+-	_Sounddesign für das letzte Puzzle_
+-	Environment aufbereiten [was done]
+-	Test [was not done]
 -	***23 DEZEMBER***
 
 ## Development platform 
