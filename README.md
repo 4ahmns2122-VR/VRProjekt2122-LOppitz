@@ -48,13 +48,21 @@ AUDIO: city atmosphere, whirring sound to help finding game one, door opening so
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit, Adobe Audition 2022, Adobe Photoshop 2021
 ### Packages
 JetBrains Rider Editor Version 2.0.7 - August 19, 2020
+
 Test Framework Version 1.1.29 - August 17, 2021
+
 Unity UI Version 1.0.0 - August 31, 2021
+
 Version Control Version 1.9.0 - August 05, 2021
+
 Visual Studio Code Editor Version 1.2.3 - October 28, 2020
+
 Visual Studio Editor Version 2.0.11 - July 08, 2021
+
 XR Interaction Toolkit Version 2.0.0-pre.6 - December 20, 2021
+
 TextMeshPro Version 3.0.6 - April 22, 2021
+
 Timeline Version 1.4.8 - May 04, 2021
 
 ## Software/Hardware Requirements
