@@ -2,13 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class ButtonPart1 : MonoBehaviour
 {
 
     public int id = 1;
     public AudioSource press;
     public AudioSource wrong;
-
+   // public OVRInput.Controller controller;
     public ButtonManager1 bManager;
 
     public AudioSource pickUp1, pickUp2, pickUp3, pickUp4, pickUp5;
@@ -25,9 +26,9 @@ public class ButtonPart1 : MonoBehaviour
         {
            if (id == bManager.currentID)
             {
-               // Debug.Log(id + " " + bManager.currentID); 
                 bManager.currentID += 1;
                 press.Play();
+               // OVRInput.SetControllerVibration(1, 1, OVRInput.Controller.RTouch);
 
                 if (bManager.currentID == 4)
                 {
