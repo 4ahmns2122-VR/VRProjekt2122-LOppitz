@@ -27,25 +27,43 @@ AUDIO: city atmosphere, whirring sound to help finding game one, door opening so
 
 
 ## Milestones
--	Research
--	Whiteboxing
--	Einbindung des Atmo Sounds
--	Programmierung des ersten Puzzles
--	Sounddesign für das erste Puzzle
--	Test 
--	***18 NOVEMBER***
--	Programmierung des zweiten Puzzles
--	Sounddesign für das zweite Puzzle
--	Test
+-	Research [was done]
+-	Whiteboxing [was done]
+-	Einbindung des Atmo Sounds [was not done]
+-	Programmierung des ersten Puzzles [was not done]
+-	Sounddesign für das erste Puzzle [was not done]
+-	Test [was not done]
+-	***18 NOVEMBER*** 
+-	Programmierung des zweiten Puzzles [was not done]
+-	Sounddesign für das zweite Puzzle [was not done]
+-	Test [was not done]
 -	***02 DEZEMBER***
--	Programmierung des letzten Puzzles
--	Sounddesign für das letzte Puzzle
--	Environment aufbereiten
--	Test 
+-	_Programmierung des letzten Puzzles_
+-	_Sounddesign für das letzte Puzzle_
+-	Environment aufbereiten [was done]
+-	Test [was not done]
 -	***23 DEZEMBER***
 
 ## Development platform 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit, Adobe Audition 2022, Adobe Photoshop 2021
+### Packages
+JetBrains Rider Editor Version 2.0.7 - August 19, 2020
+
+Test Framework Version 1.1.29 - August 17, 2021
+
+Unity UI Version 1.0.0 - August 31, 2021
+
+Version Control Version 1.9.0 - August 05, 2021
+
+Visual Studio Code Editor Version 1.2.3 - October 28, 2020
+
+Visual Studio Editor Version 2.0.11 - July 08, 2021
+
+XR Interaction Toolkit Version 2.0.0-pre.6 - December 20, 2021
+
+TextMeshPro Version 3.0.6 - April 22, 2021
+
+Timeline Version 1.4.8 - May 04, 2021
 
 ## Software/Hardware Requirements
 Oculus hardware requirements https://support.oculus.com/248749509016567/
@@ -61,17 +79,19 @@ Oculus Rift
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
 
 ### Assets
-https://assetstore.unity.com/packages/2d/textures-materials/cyberpunk-material-pack-six-high-quality-materials-188067
+https://assetstore.unity.com/packages/2d/textures-materials/cyberpunk-material-pack-six-high-quality-materials-188067 Version 1.0 - February 01, 2021
 
-https://assetstore.unity.com/packages/3d/props/interior/futuristic-security-door-182385
+https://assetstore.unity.com/packages/3d/props/interior/futuristic-security-door-182385 Version 1.0 - November 09, 2020
 
-https://assetstore.unity.com/packages/3d/props/electronics/modern-vending-machine-pbr-127874
+https://assetstore.unity.com/packages/3d/props/electronics/modern-vending-machine-pbr-127874 Version 1.0 - September 24, 2018
 
-https://assetstore.unity.com/packages/3d/props/food/free-must-dash-sci-fi-drinks-pack-53584
+https://assetstore.unity.com/packages/3d/props/food/free-must-dash-sci-fi-drinks-pack-53584 Version 1.0 - September 07, 2018
 
-https://assetstore.unity.com/packages/2d/textures-materials/sky/city-street-skyboxes-vol-1-157401
+https://assetstore.unity.com/packages/2d/textures-materials/sky/city-street-skyboxes-vol-1-157401 Version 1.0 - November 18, 2019
 
-https://assetstore.unity.com/packages/3d/environments/sci-fi/sfuture-modules-pro-space-and-ground-104018
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sfuture-modules-pro-space-and-ground-104018 Version 1.1 - January 10, 2018
+
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-building-05-185404 Version 1.0 - December 29, 2020
 
 ### Sounds
 https://orangefreesounds.com
