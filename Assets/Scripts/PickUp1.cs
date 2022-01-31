@@ -11,7 +11,7 @@ public class PickUp1 : MonoBehaviour
 {
     public int count = 0;
     public AudioSource collect;
-   // private XRController xr;
+    private XRController xr;
 
 
     public GameObject doorLeft;
@@ -23,12 +23,12 @@ public class PickUp1 : MonoBehaviour
 
     public void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "button") {
+        //if (other.tag == "button") {
            
-            Debug.Log("bzz");
+          //  Debug.Log("buzz");
+          //  xr.SendHapticImpulse(0.7f, 2f);
 
-            
-        }
+//        }
 
         if (other.tag == "pickup")
         {
