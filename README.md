@@ -68,6 +68,7 @@ Timeline Version 1.4.8 - May 04, 2021
 ## Software/Hardware Requirements
 Oculus hardware requirements https://support.oculus.com/248749509016567/
 You need a VR headset in this case an Oculus Rift
+Build Settings -> Player Settings -> XR Device Manager -> tick off Oculus
 
 When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
 
