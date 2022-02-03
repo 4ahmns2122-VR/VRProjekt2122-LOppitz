@@ -9,6 +9,7 @@ TagManager:
   - ObjectBlue
   - Absinthe
   - pickup
+  - button
   layers:
   - Default
   - TransparentFX
