@@ -100,7 +100,5 @@ https://orangefreesounds.com
 https://mixkit.co
 
 ### Limitations&Problems 
-had a hard time finishing the first game; unknown issue with right hand position - only when tested on VR
-
-haptic feedback doesn't work
+had a hard time finishing the first game; unknown issue with right hand position - only when tested on VR; haptic feedback doesn't work
 
